@@ -1,0 +1,45 @@
+h1 a{
+	color:RoyalBlue
+}
+.First *{
+	color:red
+}
+.Second *{
+	color:yellow
+}
+p1.Third *{
+	color:RoyalBlue
+}
+p2.Third *{
+	color:gray
+}
+p1.Fourth *{
+	color:gray
+}
+p2.Fourth *{
+	color:DeepSkyBlue
+}
+.Fifth *{
+	color:gray
+}
+p1.End *{
+	color:Green
+}
+#One {
+	color:red
+}
+#One a{
+	color:red
+}
+#Two{
+	color:yellow
+}
+#Two a{
+	color:yellow
+}
+#Three {
+	color:DeepPink
+}
+#Three a{
+	color:DeepPink
+}
