@@ -1,0 +1,19 @@
+#blue p{
+	color:yellow
+}
+#blue{
+	color:yellow
+}
+p * a{
+	color:green
+}
+p * * a{
+	color:red
+}
+.ok{
+	color:brown
+}
+
+.last{
+	color:brown
+}
