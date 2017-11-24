@@ -1,0 +1,22 @@
+td:nth-child(4n){
+	background:lightgreen
+}
+td:nth-child(5n){
+	background:LightCoral
+}
+.purple:nth-child(6n){
+	background:MediumPurple
+}
+td:nth-child(3n){
+	background:Khaki
+}
+td:first-child{
+	background:LightCoral
+}
+td:nth-child(2){
+	background:MediumPurple
+}
+td:nth-child(7n){
+	background:Khaki
+}
+

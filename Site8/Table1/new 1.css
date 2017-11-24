@@ -1,6 +1,6 @@
-thead{
+th{
 	background-color:green
 }
-tbody:tr:nth-child(odd){
+tr:nth-child(odd){
 	background:pink
 }

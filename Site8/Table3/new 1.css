@@ -1,0 +1,6 @@
+.odd :nth-child(odd){
+	background:lightgreen;
+}
+.even :nth-child(even){
+	background:lightgreen;
+}

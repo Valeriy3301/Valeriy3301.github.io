@@ -1,0 +1,12 @@
+table{
+	background:MediumAquamarine;
+}
+.empty{
+	background:white;
+}
+a{
+	background:white;
+}
+a:visited{
+	color:blue;
+}

@@ -1,0 +1,6 @@
+.firstL::first-letter{
+	color:red
+}
+p:nth-child(3n){
+	color:green
+}
