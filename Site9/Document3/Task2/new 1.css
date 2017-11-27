@@ -1,0 +1,25 @@
+header{
+	background:red;
+	border:solid 2px;
+	height:500px;
+	margin-right: 100px;
+	margin-left: 100px;
+	
+}
+main{
+	background:green;
+	border:solid 2px;
+	height:500px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+footer{
+	background:purple;
+	border:solid 2px;
+	height:500px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+body{
+	background-image:url("Image/Photo1.jpg");
+}

@@ -1,0 +1,36 @@
+h1.first{
+	font: bold 14pt;
+	font-family:Times New Roman,serif;
+}
+p.first{
+	font-style: italic;
+}
+h1.second{
+	font: bold 12pt aria, sand-serif;
+	color:red;
+}
+p.second{
+	color:red;
+}
+.second{
+	text-align: right;
+}
+h1.third{
+	font-weight: bold;
+	font-family: courier new, monospace;
+}
+p.third::first-line{
+	text-decoration: underline;
+	font-weight: bold;
+	color:lightskyblue;
+}
+.third{
+	text-align: center;
+}
+.fourth::first-line{
+	text-decoration: line-through;
+}
+.edge{
+	color:Silver;
+}
+	

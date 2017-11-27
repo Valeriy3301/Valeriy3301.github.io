@@ -1,0 +1,19 @@
+header{
+	background:red;
+	border:solid 2px;
+	height:200px;
+	
+}
+main{
+	background:green;
+	border:solid 2px;
+	height:200px;
+}
+footer{
+	background:purple;
+	border:solid 2px;
+	height:200px;
+}
+body{
+	border:solid 2px;
+}
