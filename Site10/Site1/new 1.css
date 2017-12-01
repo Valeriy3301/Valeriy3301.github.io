@@ -1,0 +1,61 @@
+.header{
+	background:Teal;
+	text-indent:30px;
+}
+h1{
+	color:white;
+}
+.header2{
+	margin-left:40px;
+	margin-right:40px;
+	background:Teal;
+	border: black solid 3px;
+	border-radius:20px;
+	color:LightCyan;
+	text-align:center;
+	word-spacing:15px;
+}
+.row1{
+    float: left;
+	height:170px;
+	text-align:center;
+}
+.row2{
+    float: right;
+	height:170px;
+	text-align:center;
+	}
+.row3{
+    overflow: hidden;
+	text-align:center;
+	height:170px;
+}
+.main{
+	text-align:center;
+	background:LightSeaGreen;
+}
+ul{
+	color:LightCyan;
+}
+.footer{
+	border:black solid 2px;
+	border-radius:10px;
+}
+.row11{
+	float: left;
+	width: 300px;
+	height:600px;
+	background:white;
+}
+.row22{
+	float: right;
+	width: 300px;
+	height:600px;
+	background:white;
+}
+.row33{
+	float: overflow;
+	height:600px;
+	background:Gainsboro;
+}
+	
