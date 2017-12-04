@@ -1,0 +1,52 @@
+body{
+	background:LightCyan;
+}
+header{
+	margin: 0;
+    padding: 0;
+	background:black;
+	display:flex;
+	justify-content:space-around;
+}
+h1{
+	color:silver;
+}
+a{
+	text-decoration:none;
+	color:silver
+}
+a.back{
+	background:LightCoral
+}
+.Picture{
+	background:url("Image/Photo1.png");
+	height:300px;
+}
+nav{
+	word-spacing:24px;
+	align-self:baseline;
+}
+.wrap_out{
+	margin-top:20px;
+	display:flex;
+	justify-content:space-around;
+}
+main{
+	background:white;
+}
+.item1{
+	margin-left:20px;
+	margin-right:20px;
+	text-align:center;
+}
+footer{
+	background:Gainsboro;
+}
+.container{
+	display:flex;
+	justify-content:space-around;
+}
+.Title{
+	margin-top:20px;
+	color:black;
+}
